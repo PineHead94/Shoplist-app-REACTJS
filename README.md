@@ -1,1 +1,1 @@
-### Run `npm install` 
+### Run `npm install` after dowloading zip
