@@ -16,7 +16,7 @@ function Filter({ filterShops,handleReset }) {
     }
 
     return (
-        <div className='filter' style={{top: toggle ? '65%' : '95%'}}>
+        <div className='filter' style={{top: toggle ? '68%' : '95%'}}>
             <div className='header' onClick={()=> setToggle(prev => !prev)}>
             <h4>Find Store</h4>
             </div>
